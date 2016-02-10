@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\UR5 Test\ViconSDKTest01\ViconSDKTest01\bin\Debug\ViconSDKTest01.exe.config
+C:\Users\Admin\Desktop\UR5 Test\ViconSDKTest01\ViconSDKTest01\obj\Debug\ViconSDKTest01.exe
+C:\Users\Admin\Desktop\UR5 Test\ViconSDKTest01\ViconSDKTest01\obj\Debug\ViconSDKTest01.pdb

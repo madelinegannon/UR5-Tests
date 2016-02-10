@@ -1,0 +1,11 @@
+f:\Users\Administrator\Desktop\URServer\URServer\bin\Debug\URServer.exe
+f:\Users\Administrator\Desktop\URServer\URServer\bin\Debug\URServer.pdb
+f:\Users\Administrator\Desktop\URServer\URServer\obj\x86\Debug\URServer.csprojResolveAssemblyReference.cache
+f:\Users\Administrator\Desktop\URServer\URServer\obj\x86\Debug\URServer.exe
+f:\Users\Administrator\Desktop\URServer\URServer\obj\x86\Debug\URServer.pdb
+C:\Users\Admin\Desktop\UR5 Test\URServer\URServer\obj\x86\Debug\URServer.exe
+C:\Users\Admin\Desktop\UR5 Test\URServer\URServer\obj\x86\Debug\URServer.pdb
+C:\Users\Admin\Desktop\UR5 Test\URServer\URServer\bin\Debug\URServer.exe
+C:\Users\Admin\Desktop\UR5 Test\URServer\URServer\bin\Debug\URServer.pdb
+C:\Users\Admin\Desktop\UR5 Test\URServer\URServer\obj\x86\Debug\URServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\UR5 Test\URServer\URServer\bin\Debug\SharpOSC.dll

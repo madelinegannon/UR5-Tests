@@ -1,0 +1,7 @@
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\bin\Debug\ViconSDKTest01.exe.config
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\bin\Debug\ViconSDKTest01.exe
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\bin\Debug\ViconSDKTest01.pdb
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\bin\Debug\ViconDataStreamSDK_DotNET.dll
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\obj\Debug\ViconSDKTest01.csprojResolveAssemblyReference.cache
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\obj\Debug\ViconSDKTest01.exe
+c:\users\thomasd\documents\visual studio 2013\Projects\ViconSDKTest01\ViconSDKTest01\obj\Debug\ViconSDKTest01.pdb
